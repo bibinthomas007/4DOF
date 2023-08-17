@@ -1,2 +1,3 @@
 
-Arduino ros package contains codes for the 3dof arm and wiki page explaining how to install the necessary libraries and packages on your pc
+This package contains the files to make a 4dof robotic arm which can autonomously detect packages, pick it and place it in a  drop zone
+
