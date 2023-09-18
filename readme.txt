@@ -14,3 +14,6 @@ current load: 3A
 Stall Torque @7.4v : 35.5 kg-com
 current load: 3.8A
 
+
+Servo pulse width is 500 to 2500 for both orange 35 kg-cm servo and 25kg-cm servo
+
